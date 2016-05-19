@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\app_android\XXSwitch\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\app_android\XXSwitch\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-12a18f9e63260c043ad7887767e118925a2a1065.jar" />
+    </item>
+    <item
+        jar="D:\app_android\XXSwitch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\app_android\XXSwitch\app\build\intermediates\pre-dexed\debug\classes-fa16e2b4da2a79613a934a9abebcc7938b20000b.jar" />
+    </item>
+    <item
+        jar="D:\app_android\XXSwitch\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\app_android\XXSwitch\app\build\intermediates\pre-dexed\debug\classes-2715f277b2cc12f7657cb717c530f41bbaffedea.jar" />
+    </item>
+    <item
+        jar="D:\app_android\XXSwitch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\app_android\XXSwitch\app\build\intermediates\pre-dexed\debug\classes-03e9813d513246a2972e07ad203966ef8f80bd12.jar" />
+    </item>
+    <item
+        jar="F:\tools\adt-bundle-windows-x86-20130717\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\app_android\XXSwitch\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-204474acb21fd11b993beabbdf00f7eb821df2d6.jar" />
+    </item>
+    <item
+        jar="D:\app_android\XXSwitch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\app_android\XXSwitch\app\build\intermediates\pre-dexed\debug\classes-4845ee0f1f74676b76cf7dada7cb5cb7d5e547b6.jar" />
+    </item>
+
+</items>

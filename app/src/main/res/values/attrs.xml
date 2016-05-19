@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="XXSwitch">
+        <!-- 开关状态是否是on -->
+        <attr name="switch_on" format="boolean" />
+        <attr name="open_bg" format="reference" />
+        <attr name="close_bg" format="reference" />
+        <attr name="slip_foreground" format="reference" />
+    </declare-styleable>
+</resources>
